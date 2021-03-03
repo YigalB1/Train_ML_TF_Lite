@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Train_ML_TF_Lite",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
