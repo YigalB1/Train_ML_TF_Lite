@@ -7,3 +7,5 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 import tensorflow as tf
+
+print("oHAAAAAA")
